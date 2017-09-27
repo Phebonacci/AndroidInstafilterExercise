@@ -1,3 +1,13 @@
 <resources>
-  <string name="app_name">Instafilter</string>
+    <string name="app_name">Instafilter</string>
+    <string name="app_logo">Instagram</string>
+
+    <!-- Main Activity -->
+    <string name="tap_to_filter">Tap to select a photo</string>
+
+    <!-- Photo Filter Activity -->
+    <string name="save">Save</string>
+    <string name="filter">Filter</string>
+    <string name="permission_required">Permission required</string>
+    <string name="write_access_needed">We need write access to your external storage to save images.</string>
 </resources>
